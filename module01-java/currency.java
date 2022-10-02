@@ -6,8 +6,10 @@ public class currency
         boolean check = true;
         while(check)
         {
+            //open scanner
             Scanner reader = new Scanner(System.in);
 
+            //find which kind of money the user has
             System.out.println("What kind of money do you have? (Please type number)");
             System.out.println("1: United States Dollar");
             System.out.println("2: Euro");
@@ -17,6 +19,7 @@ public class currency
 
             int first = reader.nextInt();
 
+            //find out what kind of money the user wants to transfer to
             System.out.println("What currency do you want to convert to? (Please type number)");
             System.out.println("1: United States Dollar");
             System.out.println("2: Euro");
@@ -32,7 +35,7 @@ public class currency
 
             String convert = "";
 
-
+            //find out which number was pressed
             switch(first)
             {
                 case 1:
@@ -65,9 +68,11 @@ public class currency
                     System.out.println("Please enter a number between 1-5.");
                 }
             }
+            //print the conversion
             System.out.println("The conversion is: " + convert);
             System.out.println("");
 
+            //loop to see if the user needs more conversions.
             boolean check2 = true;
             while(check2)
             {
