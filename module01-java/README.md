@@ -5,7 +5,7 @@ These numbers might be a little off, due to constantly changing exchange rates.
 
 currency.java is my main file. That is the one that will run my code. 
 
-You may watch a video demonstration of my code here: [Software Demo Video]()
+You may watch a video demonstration of my code here: [Software Demo Video](https://youtu.be/79hmkaGtpRk)
 
 # Development Environment
 
