@@ -15,7 +15,7 @@ I used Visual Studio Code to write the C# that I needed to make the game run.
 # Useful Websites
 
 * [YouTube - How to Make Snake in Unity](https://www.youtube.com/watch?v=U8gUnpeaMbQ) -  I used some ideas shown in this video.
-* [PAUSE MENU in Unity](https://www.youtube.com/watch?v=JivuXdrIHK0) - As well as this one to understand Pause Menu Functionality
+* [YouTube - PAUSE MENU in Unity](https://www.youtube.com/watch?v=JivuXdrIHK0) - As well as this one to understand Pause Menu Functionality
 * [RedGate - Save Game](https://www.red-gate.com/simple-talk/development/dotnet-development/saving-game-data-with-unity/)
 
 # Future Work
